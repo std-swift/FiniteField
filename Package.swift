@@ -15,7 +15,7 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "https://github.com/std-swift/ModularArithmetic.git",
-		         from: "1.0.0")
+		         from: "1.0.0"),
 	],
 	targets: [
 		.target(
